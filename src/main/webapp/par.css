@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+  .ui-widget-header{
+  	 border: none;
+  	 background: none;
+  }
+  .ui-widget.ui-widget-content {
+     border: none;
+}
+.ui-widget-content {
+    border: none; 
+}
